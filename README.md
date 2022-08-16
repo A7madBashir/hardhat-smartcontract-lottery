@@ -1,4 +1,4 @@
-# Hardhat Smartcontract Lottery (Raffle) FCC
+# Hardhat Smartcontract Lottery (Raffle)
 
 This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
 
